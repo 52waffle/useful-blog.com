@@ -1,5 +1,5 @@
 # 52research
-choose one from this list
+choose one from the list
 
 ## [>反营销号实验室](https://52waffle.github.io/fyxhsys)
 
