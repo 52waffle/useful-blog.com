@@ -1,6 +1,6 @@
-# 这里是52research
+# 52research
 choose one from this list
 
-## [>反营销号实验室](https://www.github.com/52waffle/582yxh)
+## [>反营销号实验室](https://52waffle.github.io/fyxhsys)
 
-## [>安卓碎片化研究室](https://www.github.com/52waffle/52android)
+## [>安卓碎片化研究室](https://52waffle.io/azsphyjs)
